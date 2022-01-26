@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arbelzis
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Javascript and React 
+- 👋 Hi, I’m Arbel Ziskind
+- 👀 I’m interested in DATA!
+- 🌱 I’m always in a learning proccess and currently perfecting my sql & tableau skills.
 - 📫 arbelzis@gmail.com
 
 <!---
